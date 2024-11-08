@@ -12,8 +12,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "remix": "^1.16.0",  // Replace with the actual version you need
-    "vite": "^4.3.0"     // Replace with the actual version you need
+    "remix": "^1.16.0", 
+    "vite": "^4.3.0"     
   },
   "devDependencies": {
     "@eslint/js": "^8.50.0",
